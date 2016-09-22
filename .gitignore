@@ -67,3 +67,5 @@ docs/_build/
 
 # vi swap files
 *.swp
+%HOMEDRIVE%%HOMEPATH%/.jupyter/migrated
+array_rotate/.ipynb_checkpoints/Array Rotation-checkpoint.ipynb
