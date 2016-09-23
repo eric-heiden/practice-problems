@@ -69,3 +69,4 @@ docs/_build/
 *.swp
 %HOMEDRIVE%%HOMEPATH%/.jupyter/migrated
 array_rotate/.ipynb_checkpoints/Array Rotation-checkpoint.ipynb
+coin_change/.ipynb_checkpoints/Coin Change-checkpoint.ipynb
